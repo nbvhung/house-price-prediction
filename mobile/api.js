@@ -1,1 +1,1 @@
-export const API_URL = 'https://HOUSE-URL.onrender.com';
+export const API_URL = 'https://house-price-prediction-gng3.onrender.com';
